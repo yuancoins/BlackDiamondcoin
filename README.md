@@ -1,0 +1,2 @@
+# BlackDiamondcoin
+Official-Blackdiamondcoin
